@@ -27,4 +27,4 @@ The MainActivity.kt !!! Traditionnaly ;)
 - activity_mail.xml  
 - item_and_version.xml  
 
-#### **Let's enjoy !!!! :) :)**
+### **Let's enjoy !!!! :) :)**
