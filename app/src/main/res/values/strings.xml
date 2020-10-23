@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">android-version</string>
+    <string-array name="name">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Oreo</item>
+        <item>Nougat</item>
+        <item>Gingerbread</item>
+        <item>Ice Cream Sandwitch</item>
+        <item>Jelly Bean</item>
+        <item>Froyo</item>
+        <item>Lollipop</item>
+    </string-array>
+</resources>
