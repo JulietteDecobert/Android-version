@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-android:layout_width="match_parent"
-android:layout_height="wrap_content"
-android:orientation="vertical">
-
-<GridLayout
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:columnCount="3">
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
 
-    <ImageView
-        android:id="@+id/image"
-        android:layout_width="200px"
-        android:layout_height="200px"
-        android:layout_row="0"
-        android:layout_column="0" />
-    <TextView
-        android:id="@+id/AndVersions"
-        android:layout_width="100dp"
-        android:layout_height="wrap_content"
-        android:layout_column="2"
-        android:layout_marginTop="25dp"
-        android:layout_gravity="center"/>
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3">
 
-</GridLayout>
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="200px"
+            android:layout_height="200px"
+            android:layout_row="0"
+            android:layout_column="0" />
 
-<View
-    android:layout_width="match_parent"
-    android:layout_height="1dp"
-    android:background="@android:color/holo_blue_light" />
+        <TextView
+            android:id="@+id/AndVersions"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp" />
+
+    </GridLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/holo_blue_light" />
 
 
 </LinearLayout>
