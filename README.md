@@ -1,18 +1,18 @@
 # Android-version
 
-##Description of the application
+## Description of the application
 On this project, you will see differents android's versions. 
 There will be one image corresponding to the versions wrirted next to it.
 
 
-##Contruction of the project:
->Packages class
--AndVersion.kt
--AndVersionAdapters.kt
+## Contruction of the project:
+> Packages class
+- AndVersion.kt
+- AndVersionAdapters.kt
 
 The MainActivity.kt !!! Traditionnaly ;)
 
->drawable:  
+> drawable:  
 cupcake  
 donut  
 eclair  
@@ -23,8 +23,8 @@ gingerbread
 lollipop
 nougat
 
->layout
--activity_mail.xml
--item_and_version.xml
+> layout
+- activity_mail.xml
+- item_and_version.xml
 
-**Let's enjoy !!!! :) :)**
+*Let's enjoy !!!! :) :)*
